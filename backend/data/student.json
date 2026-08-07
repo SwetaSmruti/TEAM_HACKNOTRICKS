@@ -1,0 +1,15 @@
+{
+  "student": {
+    "id": "u_001",
+    "name": "Arjun Sharma",
+    "username": "arjun_codes",
+    "avatar": "AS",
+    "college": "IIT Bombay",
+    "year": "3rd Year",
+    "branch": "Computer Science",
+    "joinedDate": "2025-06-01",
+    "bio": "Aspiring full-stack developer. Building consistency one day at a time.",
+    "github": "github.com/arjun_codes",
+    "linkedin": "linkedin.com/in/arjun_codes"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "leaderboard": [
+    { "rank": 1, "name": "Priya Patel", "username": "priya_dev", "avatar": "PP", "xp": 7200, "streak": 60, "college": "IIT Delhi", "isYou": false },
+    { "rank": 2, "name": "Rahul Verma", "username": "rahul_v", "avatar": "RV", "xp": 7050, "streak": 58, "college": "NIT Trichy", "isYou": false },
+    { "rank": 3, "name": "Sneha Reddy", "username": "sneha_r", "avatar": "SR", "xp": 6900, "streak": 55, "college": "BITS Pilani", "isYou": false },
+    { "rank": 4, "name": "Karthik Iyer", "username": "karthik_i", "avatar": "KI", "xp": 6700, "streak": 52, "college": "IIT Madras", "isYou": false },
+    { "rank": 5, "name": "Ananya Gupta", "username": "ananya_g", "avatar": "AG", "xp": 6500, "streak": 50, "college": "IIIT Hyderabad", "isYou": false },
+    { "rank": 6, "name": "Vikram Singh", "username": "vikram_s", "avatar": "VS", "xp": 6300, "streak": 48, "college": "IIT Kanpur", "isYou": false },
+    { "rank": 7, "name": "Divya Nair", "username": "divya_n", "avatar": "DN", "xp": 6100, "streak": 45, "college": "NIT Surathkal", "isYou": false },
+    { "rank": 8, "name": "Arnav Joshi", "username": "arnav_j", "avatar": "AJ", "xp": 5900, "streak": 43, "college": "BITS Goa", "isYou": false },
+    { "rank": 9, "name": "Ishita Bose", "username": "ishita_b", "avatar": "IB", "xp": 5700, "streak": 40, "college": "IIT Roorkee", "isYou": false },
+    { "rank": 10, "name": "Rohan Das", "username": "rohan_d", "avatar": "RD", "xp": 5500, "streak": 38, "college": "VIT Vellore", "isYou": false },
+    { "rank": 47, "name": "Arjun Sharma", "username": "arjun_codes", "avatar": "AS", "xp": 2840, "streak": 12, "college": "IIT Bombay", "isYou": true }
+  ],
+  "yourRank": 47,
+  "totalParticipants": 3200
+}

@@ -1,0 +1,62 @@
+{
+  "student": {
+    "id": "u_001",
+    "name": "Arjun Sharma",
+    "username": "arjun_codes",
+    "avatar": "AS",
+    "college": "IIT Bombay",
+    "year": "3rd Year",
+    "branch": "Computer Science",
+    "joinedDate": "2025-06-01",
+    "bio": "Aspiring full-stack developer. Building consistency one day at a time.",
+    "github": "github.com/arjun_codes",
+    "linkedin": "linkedin.com/in/arjun_codes"
+  },
+  "streak": 12,
+  "longestStreak": 15,
+  "xp": 2840,
+  "level": 7,
+  "xpToNextLevel": 360,
+  "rank": 47,
+  "totalParticipants": 3200,
+  "completionPct": 20,
+  "daysCompleted": 12,
+  "totalDays": 60,
+  "currentDay": 13,
+  "todayChallenge": {
+    "day": 13,
+    "title": "Build a REST API with CRUD Operations",
+    "difficulty": "Medium",
+    "estimatedTime": "2-3 hrs",
+    "deadline": "Today, 11:59 PM IST",
+    "submitted": false
+  },
+  "leaderboard": [
+    { "rank": 1, "name": "Priya Patel", "username": "priya_dev", "avatar": "PP", "xp": 7200, "streak": 60, "isYou": false },
+    { "rank": 2, "name": "Rahul Verma", "username": "rahul_v", "avatar": "RV", "xp": 7050, "streak": 58, "isYou": false },
+    { "rank": 3, "name": "Sneha Reddy", "username": "sneha_r", "avatar": "SR", "xp": 6900, "streak": 55, "isYou": false },
+    { "rank": 47, "name": "Arjun Sharma", "username": "arjun_codes", "avatar": "AS", "xp": 2840, "streak": 12, "isYou": true }
+  ],
+  "recentActivity": [
+    { "id": "a1", "type": "submit", "title": "Day 12 Completed", "detail": "Built a Todo App with React", "timestamp": "2 hours ago", "xp": 120 },
+    { "id": "a2", "type": "streak", "title": "12 Day Streak!", "detail": "You are on fire. Keep going!", "timestamp": "2 hours ago" },
+    { "id": "a3", "type": "achievement", "title": "Achievement Unlocked", "detail": "Consistency King — 10 day streak", "timestamp": "1 day ago" },
+    { "id": "a4", "type": "submit", "title": "Day 11 Completed", "detail": "Built a Weather App", "timestamp": "1 day ago", "xp": 120 },
+    { "id": "a5", "type": "level", "title": "Reached Level 7", "detail": "2,840 XP earned", "timestamp": "2 days ago" }
+  ],
+  "achievements": [
+    { "id": "ach1", "name": "First Commit", "description": "Complete your first day", "icon": "GitCommit", "unlocked": true, "date": "Day 1", "rarity": "common" },
+    { "id": "ach2", "name": "Consistency King", "description": "Maintain a 10-day streak", "icon": "Flame", "unlocked": true, "date": "Day 10", "rarity": "rare" },
+    { "id": "ach3", "name": "Week Warrior", "description": "Complete 7 days in a row", "icon": "Shield", "unlocked": true, "date": "Day 7", "rarity": "rare" },
+    { "id": "ach4", "name": "Open Source Hero", "description": "Make your repo public for 15 days", "icon": "Github", "unlocked": true, "date": "Day 15", "rarity": "epic" },
+    { "id": "ach5", "name": "Half Century", "description": "Reach a 30-day streak", "icon": "Trophy", "unlocked": false, "rarity": "epic" },
+    { "id": "ach6", "name": "Legend", "description": "Complete all 60 days", "icon": "Crown", "unlocked": false, "rarity": "legendary" }
+  ],
+  "heatmap": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+  "motivation": {
+    "quote": "Consistency is what transforms average into excellence. Show up today.",
+    "author": "ABTalks Challenge"
+  },
+  "recruiterScore": 72,
+  "consistencyPrediction": 88
+}

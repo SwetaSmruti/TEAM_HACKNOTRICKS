@@ -1,0 +1,141 @@
+[
+  {
+    "day": 1,
+    "title": "Build a Personal Portfolio Page",
+    "difficulty": "Easy",
+    "estimatedTime": "1-2 hrs",
+    "category": "Frontend",
+    "description": "Create a single-page personal portfolio using HTML, CSS, and JavaScript. This is your first step — make it count.",
+    "objectives": [
+      "Learn basic HTML structure and semantic tags",
+      "Practice CSS layout with Flexbox or Grid",
+      "Add interactivity with vanilla JavaScript"
+    ],
+    "deliverables": [
+      "A responsive portfolio page hosted on GitHub Pages or Netlify",
+      "At least 3 sections: About, Skills, Projects",
+      "A contact form (non-functional is okay)"
+    ],
+    "requirements": [
+      "Must be mobile responsive",
+      "Use a CSS reset or normalize.css",
+      "Push code to a public GitHub repository"
+    ],
+    "resources": [
+      { "title": "MDN HTML Guide", "url": "https://developer.mozilla.org/en-US/docs/Web/HTML", "type": "docs" },
+      { "title": "CSS Flexbox Complete Guide", "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/", "type": "guide" }
+    ],
+    "tips": [
+      "Keep the design simple and clean. Less is more.",
+      "Commit early and often — each commit tells a story.",
+      "Write a clear README.md so others understand your project."
+    ],
+    "submitted": true,
+    "xpReward": 100
+  },
+  {
+    "day": 13,
+    "title": "Build a REST API with CRUD Operations",
+    "difficulty": "Medium",
+    "estimatedTime": "2-3 hrs",
+    "category": "Backend",
+    "description": "Build a RESTful API that supports full CRUD operations for a resource of your choice. This challenge bridges the gap between frontend and backend.",
+    "objectives": [
+      "Understand REST principles and HTTP methods",
+      "Implement CRUD operations with proper status codes",
+      "Structure an Express.js application with routes and controllers",
+      "Handle errors gracefully with middleware"
+    ],
+    "deliverables": [
+      "A working Express.js API with at least one resource",
+      "All 5 CRUD endpoints: GET (all), GET (one), POST, PUT/PATCH, DELETE",
+      "Input validation for request bodies",
+      "A Postman collection or .http file for testing"
+    ],
+    "requirements": [
+      "Use Express.js (or your preferred Node framework)",
+      "Store data in-memory or in a JSON file — no database needed",
+      "Return proper HTTP status codes (200, 201, 400, 404, 500)",
+      "Write a README with setup instructions and endpoint documentation"
+    ],
+    "resources": [
+      { "title": "Express.js Official Docs", "url": "https://expressjs.com/", "type": "docs" },
+      { "title": "REST API Best Practices", "url": "https://restfulapi.net/", "type": "guide" },
+      { "title": "HTTP Status Codes Reference", "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status", "type": "docs" }
+    ],
+    "tips": [
+      "Start with a simple in-memory array before adding any persistence.",
+      "Use Postman or Thunder Client to test each endpoint as you build it.",
+      "Separate your routes, controllers, and models for clean architecture.",
+      "Write meaningful commit messages — recruiters read your GitHub history."
+    ],
+    "submitted": false,
+    "xpReward": 120
+  },
+  {
+    "day": 30,
+    "title": "Build a Real-Time Chat with WebSockets",
+    "difficulty": "Hard",
+    "estimatedTime": "3-4 hrs",
+    "category": "Full Stack",
+    "description": "Build a real-time chat application using WebSockets. Users should be able to join a room, send messages, and see messages from others instantly.",
+    "objectives": [
+      "Understand the WebSocket protocol and when to use it",
+      "Implement a WebSocket server with Socket.io",
+      "Broadcast messages to connected clients in real time"
+    ],
+    "deliverables": [
+      "A chat server using Socket.io",
+      "A simple frontend that connects and displays messages",
+      "User join/leave notifications"
+    ],
+    "requirements": [
+      "Use Socket.io or the native ws package",
+      "Handle disconnections gracefully",
+      "Push to a public GitHub repo with a working README"
+    ],
+    "resources": [
+      { "title": "Socket.io Get Started", "url": "https://socket.io/get-started/chat/", "type": "guide" },
+      { "title": "WebSocket API — MDN", "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API", "type": "docs" }
+    ],
+    "tips": [
+      "Test with multiple browser tabs to simulate multiple users.",
+      "Add a typing indicator for extra polish."
+    ],
+    "submitted": false,
+    "xpReward": 150
+  },
+  {
+    "day": 60,
+    "title": "Ship a Full-Stack Mini Project",
+    "difficulty": "Hard",
+    "estimatedTime": "4-6 hrs",
+    "category": "Full Stack",
+    "description": "For your final challenge, ship a complete full-stack mini project that combines everything you have learned over 60 days.",
+    "objectives": [
+      "Combine frontend, backend, and deployment skills",
+      "Build a project worthy of your portfolio",
+      "Deploy to a public URL"
+    ],
+    "deliverables": [
+      "A full-stack application with frontend and backend",
+      "Deployed to a public URL (Vercel, Netlify, Render, etc.)",
+      "A polished README with screenshots and setup instructions"
+    ],
+    "requirements": [
+      "Must have a working frontend and backend",
+      "Must be deployed and accessible",
+      "Write a LinkedIn post reflecting on your 60-day journey"
+    ],
+    "resources": [
+      { "title": "Vercel Deployment Guide", "url": "https://vercel.com/docs", "type": "docs" },
+      { "title": "How to Write a Great README", "url": "https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project", "type": "guide" }
+    ],
+    "tips": [
+      "Pick a project you are genuinely excited about — it shows in the final product.",
+      "Document your journey in your LinkedIn post. Authenticity wins."
+    ],
+    "submitted": false,
+    "xpReward": 300
+  }
+]
